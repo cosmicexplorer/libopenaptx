@@ -20,6 +20,8 @@
 #ifndef OPENAPTX_H
 #define OPENAPTX_H
 
+#include <stdlib.h>
+
 #define OPENAPTX_MAJOR 0
 #define OPENAPTX_MINOR 0
 #define OPENAPTX_PATCH 0
