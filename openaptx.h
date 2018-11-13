@@ -28,6 +28,11 @@
 
 struct aptx_context;
 
+enum aptx_modes {
+  APTX_BASE = 0,
+  APTX_HD = 1,
+};
+
 /*
  * Initialize context for aptX codec and reset it.
  * hd = 0 process aptX codec
